@@ -1,0 +1,10 @@
+C:\Users\code\Desktop\Biljana\MyStoreSolution\MyStore.Domain\bin\Debug\MyStore.Domain.dll
+C:\Users\code\Desktop\Biljana\MyStoreSolution\MyStore.Domain\bin\Debug\MyStore.Domain.pdb
+C:\Users\code\Desktop\Biljana\MyStoreSolution\MyStore.Domain\obj\Debug\MyStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\code\Desktop\Biljana\MyStoreSolution\MyStore.Domain\obj\Debug\MyStore.Domain.dll
+C:\Users\code\Desktop\Biljana\MyStoreSolution\MyStore.Domain\obj\Debug\MyStore.Domain.pdb
+C:\Users\student\Desktop\V\MyStore-master\MyStore.Domain\bin\Debug\MyStore.Domain.dll
+C:\Users\student\Desktop\V\MyStore-master\MyStore.Domain\bin\Debug\MyStore.Domain.pdb
+C:\Users\student\Desktop\V\MyStore-master\MyStore.Domain\obj\Debug\MyStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\V\MyStore-master\MyStore.Domain\obj\Debug\MyStore.Domain.dll
+C:\Users\student\Desktop\V\MyStore-master\MyStore.Domain\obj\Debug\MyStore.Domain.pdb
